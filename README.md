@@ -3,11 +3,12 @@
 ## Структура
 
 ```
-parallel-sum/
-├── java/ArraySumBenchmark.java       # 7 реалізацій (Java 21)
-└── csharp/
-    ├── Program.cs                    # 6 реалізацій (.NET 8)
-    └── ArraySumBenchmark.csproj
+ArraySumBenchmark/
+ ├── .vscode/launch.json
+ └── src/ArraySumBenchmark.java      # 7 реалізацій (Java 21)
+csharp/
+ ├── Program.cs                    # 6 реалізацій (.NET 8)
+ └── Lab1.csproj
 ```
 
 ## Загальний підхід
