@@ -1,0 +1,1 @@
+{ "version": "0.2.0", "configurations": [ { "type": "java", "name": "ArraySumBenchmark", "request": "launch", "mainClass": "ArraySumBenchmark", "vmArgs": "-Xmx8g -Dfile.encoding=UTF-8", "args": "1000000000 8" } ] }
